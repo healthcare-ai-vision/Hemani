@@ -59,7 +59,7 @@ This repository contains my learning and practical work in Computer Vision and D
 ---
 
 
-##Week 4: TILs and TIGER Grand Challenge
+## Week 4: TILs and TIGER Grand Challenge
 **Concepts Learned**
 -Tumor-Infiltrating Lymphocytes (TILs) in breast cancer
 -Role of TILs as a clinical biomarker
@@ -92,4 +92,5 @@ This repository contains my learning and practical work in Computer Vision and D
 
 ## Outcome
 Gained strong fundamentals in computer vision, hands-on experience with image processing, medical imaging datasets, and training modern deep learning models.
+
 
