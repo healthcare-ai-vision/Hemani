@@ -61,20 +61,20 @@ This repository contains my learning and practical work in Computer Vision and D
 
 ## Week 4: TILs and TIGER Grand Challenge
 **Concepts Learned**
--Tumor-Infiltrating Lymphocytes (TILs) in breast cancer
--Role of TILs as a clinical biomarker
--Challenges in histopathology image analysis
--Real-world applications of AI in digital pathology
+- Tumor-Infiltrating Lymphocytes (TILs) in breast cancer
+- Role of TILs as a clinical biomarker
+- Challenges in histopathology image analysis
+- Real-world applications of AI in digital pathology
 
 **Tasks Completed**
--Studied the TIGER Grand Challenge problem and learning material
--Understood clinical challenges in manual TIL scoring
--Explored histopathology ROI datasets from whole-slide images
--Designed a training pipeline for one selected TIGER task
+- Studied the TIGER Grand Challenge problem and learning material
+- Understood clinical challenges in manual TIL scoring
+- Explored histopathology ROI datasets from whole-slide images
+- Designed a training pipeline for one selected TIGER task
 
 **Dataset**
--Histopathology WSI ROI dataset from Roboflow
--Observed large image sizes, class imbalance, and tissue variability
+- Histopathology WSI ROI dataset from Roboflow
+- Observed large image sizes, class imbalance, and tissue variability
 
 ---
 
@@ -92,5 +92,6 @@ This repository contains my learning and practical work in Computer Vision and D
 
 ## Outcome
 Gained strong fundamentals in computer vision, hands-on experience with image processing, medical imaging datasets, and training modern deep learning models.
+
 
 
